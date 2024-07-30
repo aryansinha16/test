@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the significance of stress testing in ALM?",
+    "answer": "Stress testing in ALM is significant for assessing the impact of extreme but plausible adverse scenarios on the institution's financial position, helping in risk management and contingency planning."
+  },
+  {
+    "question": "How does capital adequacy relate to ALM?",
+    "answer": "Capital adequacy relates to ALM by ensuring that financial institutions have sufficient capital to absorb losses and support their risk-taking activities, thus maintaining financial stability."
+  },
+  {
+    "question": "What is the role of a Chief Risk Officer (CRO) in ALM?",
+    "answer": "The Chief Risk Officer (CRO) in ALM is responsible for overseeing the risk management framework, ensuring that risks are identified, measured, and mitigated effectively."
+  },
+  {
+    "question": "What are the main components of a liquidity contingency plan in ALM?",
+    "answer": "The main components of a liquidity contingency plan in ALM include identifying potential liquidity sources, establishing procedures for crisis management, and setting up communication plans."
+  },
+  {
+    "question": "Explain the term 'market risk' in the context of ALM.",
+    "answer": "Market risk in ALM refers to the potential for financial loss due to adverse changes in market conditions, such as interest rates, exchange rates, and equity prices."
+  },
+  {
+    "question": "What is the purpose of using value-at-risk (VaR) models in ALM?",
+    "answer": "The purpose of using value-at-risk (VaR) models in ALM is to quantify the potential maximum loss over a specified period with a given confidence level, helping in risk assessment and management."
+  },
+  {
+    "question": "How does the concept of convexity complement duration in measuring interest rate risk?",
+    "answer": "Convexity complements duration by measuring the curvature in the relationship between bond prices and interest rates, providing a more accurate estimate of interest rate risk, especially for large interest rate changes."
+  },
+  {
+    "question": "What is the significance of earnings-at-risk (EaR) in ALM?",
+    "answer": "Earnings-at-risk (EaR) in ALM measures the potential impact of changes in interest rates on an institution's earnings, helping in assessing short-term interest rate risk."
+  },
+  {
+    "question": "Describe the role of balance sheet management in ALM.",
+    "answer": "Balance sheet management in ALM involves optimizing the composition and structure of the balance sheet to achieve financial stability, profitability, and regulatory compliance."
+  },
+  {
+    "question": "What are the primary objectives of using scenario analysis in ALM?",
+    "answer": "The primary objectives of using scenario analysis in ALM are to assess the impact of different hypothetical scenarios on the institution's financial position, identify vulnerabilities, and develop appropriate risk mitigation strategies."
+  },
+  {
+    "question": "What is the primary objective of asset and liability management (ALM)?",
+    "answer": "The primary objective of ALM is to manage the risks that arise from mismatches between the assets and liabilities of financial institutions, ensuring financial stability and optimizing the risk-return profile."
+  },
+  {
+    "question": "Define Fund Transfer Pricing (FTP) in the context of ALM.",
+    "answer": "Fund Transfer Pricing (FTP) is a process used to allocate the cost of funds across different business units within a financial institution, based on their usage of assets and liabilities."
+  },
+  {
+    "question": "What is the purpose of liquidity risk management in ALM?",
+    "answer": "The purpose of liquidity risk management in ALM is to ensure that a financial institution has sufficient liquidity to meet its short-term obligations and avoid financial distress."
+  },
+  {
+    "question": "What is gap analysis, and how is it used in ALM?",
+    "answer": "Gap analysis is a tool used in ALM to measure the differences between the maturities of assets and liabilities. It helps in identifying potential interest rate risk exposure."
+  },
+  {
+    "question": "What role does behavioural modelling play in ALM?",
+    "answer": "Behavioural modelling in ALM helps in understanding and predicting customer behaviour, such as deposit withdrawals and loan prepayments, which affect the cash flows and risk profile of financial institutions."
+  },
+  {
+    "question": "Explain the concept of duration in the context of ALM.",
+    "answer": "Duration is a measure of the sensitivity of the value of an asset or liability to changes in interest rates. It helps in assessing the interest rate risk in ALM."
+  },
+  {
+    "question": "What are interest rate derivatives, and how are they used in ALM?",
+    "answer": "Interest rate derivatives, such as swaps and options, are financial instruments used in ALM to hedge against interest rate risk by locking in fixed or floating rates."
+  },
+  {
+    "question": "Why is regulatory compliance important in ALM?",
+    "answer": "Regulatory compliance in ALM is important to ensure that financial institutions adhere to legal and regulatory standards, avoid penalties, and maintain financial stability."
+  },
+  {
+    "question": "What is the difference between static and dynamic ALM?",
+    "answer": "Static ALM involves setting asset-liability strategies and holding them for a fixed period, while dynamic ALM continuously adjusts strategies in response to changing market conditions."
+  },
+  {
+    "question": "Define economic value management in the context of ALM.",
+    "answer": "Economic value management in ALM focuses on optimizing the long-term value of the institution by managing the economic value of assets and liabilities, considering their risk and return profiles."
+  },
+  {
+    "question": "What role does duration matching play in ALM strategies for managing interest rate risk?",
+    "answer": "Duration matching is a technique used in ALM to manage interest rate risk by aligning the duration of assets and liabilities. This method helps mitigate the impact of interest rate changes on the institution's net worth by ensuring that the value changes in assets and liabilities offset each other. This balance reduces the sensitivity of the institution's equity to interest rate fluctuations."
+  },
+  {
+    "question": "How does liquidity gap analysis contribute to effective ALM?",
+    "answer": "Liquidity gap analysis involves assessing the mismatch between an institution's assets and liabilities over different time horizons. By identifying gaps where liabilities exceed assets, institutions can take measures to ensure adequate liquidity, such as maintaining liquid asset buffers, securing committed credit lines, or adjusting the maturity profile of assets and liabilities to align more closely."
+  },
+  {
+    "question": "Describe the role of stress testing in ALM.",
+    "answer": "Stress testing in ALM involves simulating extreme but plausible scenarios to evaluate the impact on an institution's financial position. This process helps identify vulnerabilities in the balance sheet, assess the effectiveness of risk management strategies, and ensure that the institution can withstand adverse conditions. Stress tests are essential for preparing for unexpected events and maintaining financial stability."
+  },
+  {
+    "question": "What is the significance of behavioural modelling in the context of mortgage prepayments?",
+    "answer": "Behavioural modelling in mortgage prepayments helps institutions predict the likelihood and timing of borrowers prepaying their mortgages. By understanding these patterns, institutions can better manage interest rate risk and liquidity risk, adjust their asset-liability strategies, and optimize their hedging techniques to account for expected cash flow changes due to prepayments."
+  },
+  {
+    "question": "Explain the concept of the yield curve and its importance in ALM.",
+    "answer": "The yield curve represents the relationship between interest rates and the maturity of debt securities. In ALM, the yield curve is crucial for pricing assets and liabilities, managing interest rate risk, and making investment decisions. The shape of the yield curve (normal, inverted, or flat) provides insights into market expectations about future interest rates and economic conditions."
+  },
+  {
+    "question": "How does gap analysis differ from duration analysis in ALM?",
+    "answer": "Gap analysis focuses on the difference between the amounts of assets and liabilities that reprice or mature within specific time intervals. It helps identify periods of potential liquidity shortages or surpluses. Duration analysis, on the other hand, measures the sensitivity of the value of assets and liabilities to changes in interest rates by considering the weighted average time to receive cash flows. While gap analysis looks at timing mismatches, duration analysis assesses interest rate sensitivity."
+  },
+  {
+    "question": "What are the primary objectives of an ALCO (Asset and Liability Committee)?",
+    "answer": "The primary objectives of an ALCO are to oversee the institution's balance sheet management, ensure compliance with risk appetite and regulatory requirements, optimize the risk-return profile, and manage liquidity and interest rate risks. The ALCO sets policies, monitors risk exposures, and makes strategic decisions to align the institution's asset and liability management with its financial goals."
+  },
+  {
+    "question": "Discuss the impact of regulatory requirements on ALM strategies.",
+    "answer": "Regulatory requirements significantly impact ALM strategies by setting minimum standards for capital adequacy, liquidity, and risk management practices. Institutions must comply with regulations such as Basel III, which dictate capital buffers, leverage ratios, and liquidity coverage ratios. These requirements influence how institutions structure their balance sheets, manage risks, and allocate resources to ensure regulatory compliance and financial stability."
+  },
+  {
+    "question": "Explain the concept of economic capital and its relevance to ALM.",
+    "answer": "Economic capital represents the amount of capital an institution needs to cover its risks and remain solvent at a certain confidence level over a specified time horizon. In ALM, economic capital is used to measure and manage risks, allocate capital efficiently, and ensure that the institution can absorb potential losses. It provides a risk-adjusted perspective on the institution's financial health and supports strategic decision-making."
+  },
+  {
+    "question": "How does ALM contribute to achieving sustainable profitability?",
+    "answer": "ALM contributes to sustainable profitability by optimizing the balance sheet structure, managing risks effectively, and aligning asset and liability strategies with market conditions. By mitigating interest rate and liquidity risks, institutions can stabilize their earnings, improve financial resilience, and achieve long-term profitability. ALM also supports strategic planning and resource allocation, enhancing overall financial performance."
+  },
+  {
+    "question": "Describe the role of hedging in ALM and provide examples of common hedging instruments.",
+    "answer": "Hedging in ALM involves using financial instruments to offset potential losses from adverse market movements. Common hedging instruments include interest rate swaps, options, futures, and forward rate agreements. These tools help institutions manage interest rate risk, currency risk, and other financial risks by creating positions that counterbalance exposures in their asset and liability portfolios."
+  },
+  {
+    "question": "What is the significance of the repricing gap in ALM?",
+    "answer": "The repricing gap measures the difference between the amounts of assets and liabilities that reprice within a specific time period. It indicates the institution's exposure to interest rate changes. A positive gap means more assets than liabilities reprice, which can benefit from rising rates. A negative gap means more liabilities than assets reprice, which can benefit from falling rates. Managing the repricing gap helps institutions control interest rate risk."
+  },
+  {
+    "question": "Explain the concept of convexity in the context of ALM and interest rate risk management.",
+    "answer": "Convexity measures the curvature in the relationship between bond prices and interest rates, indicating how the duration of a bond changes as interest rates change. In ALM, convexity helps assess the sensitivity of a bond's price to interest rate movements. Higher convexity implies greater price sensitivity to interest rate changes. Managing convexity is essential for accurately measuring and mitigating interest rate risk."
+  },
+  {
+    "question": "Discuss the impact of credit risk on ALM strategies and how it is managed.",
+    "answer": "Credit risk, the risk of borrower default, impacts ALM strategies by influencing the quality and performance of the institution's assets. It is managed through credit analysis, diversification, setting credit limits, and monitoring credit exposures. Institutions use credit derivatives, such as credit default swaps, to hedge credit risk. Effective credit risk management ensures the stability and reliability of the institution's cash flows and financial health."
+  },
+  {
+    "question": "What is the role of liquidity ratios in ALM, and which ratios are commonly used?",
+    "answer": "Liquidity ratios in ALM assess the institution's ability to meet short-term obligations. Commonly used ratios include the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR). The LCR measures the institution's capacity to withstand a 30-day liquidity stress scenario, while the NSFR ensures stable funding over a one-year horizon. These ratios help institutions maintain adequate liquidity buffers and comply with regulatory requirements."
+  },
+  {
+    "question": "How does scenario analysis support ALM decision-making?",
+    "answer": "Scenario analysis involves evaluating the impact of different hypothetical scenarios on the institution's financial position. It helps ALM decision-making by providing insights into potential outcomes under various market conditions, such as changes in interest rates, economic downturns, or liquidity crises. Scenario analysis enables institutions to identify vulnerabilities, test the effectiveness of risk management strategies, and make informed decisions to enhance financial resilience."
+  },
+  {
+    "question": "Explain the importance of asset diversification in ALM.",
+    "answer": "Asset diversification is crucial in ALM as it helps spread risk across different asset classes, sectors, and geographies. By diversifying assets, institutions can reduce the impact of adverse events on any single investment, enhance portfolio stability, and improve risk-adjusted returns. Diversification mitigates concentration risk and supports a balanced approach to managing the institution's overall risk profile."
+  },
+  {
+    "question": "What is the purpose of a contingency funding plan in ALM?",
+    "answer": "A contingency funding plan outlines the actions an institution will take to manage liquidity stress events. It includes strategies for accessing alternative funding sources, such as borrowing from central banks, selling assets, or using committed credit lines. The purpose of the plan is to ensure that the institution can maintain sufficient liquidity during periods of market disruption or financial distress, thereby protecting its financial stability."
+  },
+  {
+    "question": "How do external economic factors influence ALM strategies?",
+    "answer": "External economic factors, such as interest rates, inflation, economic growth, and regulatory changes, significantly influence ALM strategies. These factors impact the institution's funding costs, asset yields, and risk exposures. ALM strategies must adapt to changing economic conditions to manage risks effectively, optimize the balance sheet, and ensure the institution's financial health. Monitoring and analysing external economic trends are essential for proactive ALM."
+  },
+  {
+    "question": "Describe the role of technology in enhancing ALM practices.",
+    "answer": "Technology plays a vital role in enhancing ALM practices by providing advanced tools for data analysis, risk modelling, and scenario simulation. Sophisticated ALM software systems enable institutions to integrate data from various sources, perform real-time risk assessments, and generate accurate reports. Technology supports better decision-making, improves efficiency, and enhances the institution's ability to manage risks and optimize its asset and liability portfolios."
+  }
+]
